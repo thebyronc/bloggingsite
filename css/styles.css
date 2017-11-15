@@ -9,10 +9,14 @@ h1.title {
 }
 .section1 {
   background-color: #dddddd;
+  margin-top: 15px;
+  margin-bottom: 15px;
   padding: 15px;
 }
 .section2 {
   padding: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
   background-color: #fff;
 }
 ul {
