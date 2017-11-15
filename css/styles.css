@@ -1,0 +1,47 @@
+h1.title {
+  font-size: 68px;
+  margin: 15px 0px;
+  font-family: sans-serif;
+}
+
+.wrapper {
+  width:800px;
+}
+.section1 {
+  background-color: #dddddd;
+  padding: 15px;
+}
+.section2 {
+  padding: 15px;
+  background-color: #fff;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+ul li {
+    float: left;
+    width: 200px;
+
+}
+
+ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+ul li a img {
+  width: 200px;
+  height: 200px;
+}
+ul li a img:hover {
+  opacity: 0.5;
+}
+/* Change the link color to #111 (black) on hover */
+ul li a:hover {
+
+}
